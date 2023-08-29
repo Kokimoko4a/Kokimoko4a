@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaloyan Rusev</h1>
 <h3 align="center">C# student from Bulgaria</h3>
 
+<img align="right" alt="coding" wide="400" src="https://media.tenor.com/GCuocsViZ40AAAAC/ninja-turtle-typing.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokimoko4a&label=Profile%20views&color=0e75b6&style=flat" alt="kokimoko4a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokimoko4a" alt="kokimoko4a" /></a> </p>
