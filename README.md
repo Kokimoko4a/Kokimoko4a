@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Kaloyan Rusev]  
+# Hi there! 👋 I'm Kaloyan Rusev
 
 Welcome to my GitHub profile! 🚀  
 I'm passionate about **[Coding, Meeting new people and Learning, also I enjoy working on **[Open Source Projects and Web apps]**.
@@ -19,11 +19,8 @@ I'm passionate about **[Coding, Meeting new people and Learning, also I enjoy wo
 
 ## 💻 Tech Stack:
 <div>
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql" alt="SQL">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=nodedotjs" alt="Node.js">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/-Razor-green?style=flat&logo=aspnet" alt="Razor">
 </div>
-
----
