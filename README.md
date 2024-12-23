@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm [Kaloyan Rusev]  
 
 Welcome to my GitHub profile! 🚀  
-I'm passionate about **[Your Interests: Coding, Machine Learning, etc.]**, and I enjoy working on **[Your Focus Areas: Open Source Projects, Data Science, etc.]**.
+I'm passionate about **[Coding, Meeting new people and Learning, also I enjoy working on **[Open Source Projects and Web apps]**.
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="Developer at work" />
@@ -10,11 +10,10 @@ I'm passionate about **[Your Interests: Coding, Machine Learning, etc.]**, and I
 ---
 
 ## 🌟 About Me:
-- 🔭 I’m currently working on **[Your Project/Area of Interest]**  
-- 🌱 I’m currently learning **[Technology/Skill]**  
-- 💬 Ask me about **[Your Expertise/Topics of Interest]**  
-- 📫 How to reach me: **[Your Email/LinkedIn/Website]**  
-- ⚡ Fun fact: **[Something Cool or Fun About You]**
+- 🔭 I’m currently working on **[GGMS]**  
+- 🌱 I’m currently learning **[ASP.NET]**    
+- 📫 How to reach me: **[kaloyan.rusev.2007@abv.bg]**  
+- ⚡ Fun fact: **[Passionate harmonica player]**
 
 ---
 
