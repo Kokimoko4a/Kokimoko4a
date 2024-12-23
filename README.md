@@ -28,23 +28,3 @@ I'm passionate about **[Your Interests: Coding, Machine Learning, etc.]**, and I
 </div>
 
 ---
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
-
----
-
-## ✨ Fun Animation:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph">
-</div>
-
----
-
-## 🎵 Currently Listening To:
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false" alt="Spotify">
-</div>
