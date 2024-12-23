@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kaloyan.rusev.2007@abv.bg**
 
-- ⚡ Fun fact **Fan of Star Wars and Turtles**
+- ⚡ Fun fact **Passionate harmonica player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
