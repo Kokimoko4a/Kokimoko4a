@@ -1,31 +1,50 @@
-<h1 align="center">Hi 👋, I'm Kaloyan Rusev</h1>
-<h3 align="center">C# student from Bulgaria</h3>
+# Hi there! 👋 I'm [Your Name]  
 
-<img align="right" alt="coding" wide="400" src="https://turtleacademy.com/images/turtle.gif">
+Welcome to my GitHub profile! 🚀  
+I'm passionate about **[Your Interests: Coding, Machine Learning, etc.]**, and I enjoy working on **[Your Focus Areas: Open Source Projects, Data Science, etc.]**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokimoko4a&label=Profile%20views&color=0e75b6&style=flat" alt="kokimoko4a" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="Developer at work" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kokimoko4a" alt="kokimoko4a" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/kokimoko4ov" target="blank"><img src="https://img.shields.io/twitter/follow/kokimoko4ov?logo=twitter&style=for-the-badge" alt="kokimoko4ov" /></a> </p>
+## 🌟 About Me:
+- 🔭 I’m currently working on **[Your Project/Area of Interest]**  
+- 🌱 I’m currently learning **[Technology/Skill]**  
+- 💬 Ask me about **[Your Expertise/Topics of Interest]**  
+- 📫 How to reach me: **[Your Email/LinkedIn/Website]**  
+- ⚡ Fun fact: **[Something Cool or Fun About You]**
 
-- 🌱 I’m currently learning **C#**
+---
 
-- 📫 How to reach me **kaloyan.rusev.2007@abv.bg**
+## 💻 Tech Stack:
+<div>
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5" alt="HTML">
+</div>
 
-- ⚡ Fun fact **Passionate harmonica player**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kokimoko4ov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kokimoko4ov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaloyan rusev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaloyan rusev" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokimoko4a&show_icons=true&locale=en&layout=compact" alt="kokimoko4a" /></p>
+## ✨ Fun Animation:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokimoko4a&show_icons=true&locale=en" alt="kokimoko4a" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kokimoko4a&" alt="kokimoko4a" /></p>
+## 🎵 Currently Listening To:
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false" alt="Spotify">
+</div>
