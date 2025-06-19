@@ -4,16 +4,16 @@ Welcome to my GitHub profile! 🚀
 I'm passionate about **[Coding, Meeting new people and Learning, also I enjoy working on **[Open Source Projects and Web apps]**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="Developer at work" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fduckly.com%2Fblog%2Fpair-programming-with-vs-code%2F&psig=AOvVaw0xWist20XkwxMZwfMYXVsP&ust=1750414927975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjg0vyh_Y0DFQAAAAAdAAAAABAM" width="400" height="200" alt="Developer at work" />
 </div>
 
 ---
 
 ## 🌟 About Me:
-- 🔭 I’m currently working on **[GGMS]**  
+- 🔭 I’m currently working on **[CARAI]**  
 - 🌱 I’m currently learning **[ASP.NET]**    
 - 📫 How to reach me: **[kaloyan.rusev.2007@abv.bg]**  
-- ⚡ Fun fact: **[Passionate harmonica player]**
+- ⚡ Fun fact: **[Passionate saxophone 🎷 player]**
 
 ---
 
