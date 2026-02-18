@@ -10,10 +10,10 @@ I'm passionate about **[Coding, Meeting new people and Learning, also I enjoy wo
 ---
 
 ## 🌟 About Me:
-- 🔭 I’m currently working on **[CARAI]**  
-- 🌱 I’m currently learning **[ASP.NET]**    
-- 📫 How to reach me: **[kaloyan.rusev.2007@abv.bg]**  
-- ⚡ Fun fact: **[Passionate saxophone 🎷 player]**
+- 🔭 I’m currently working on **ACUSTICA**  
+- 🌱 I’m currently learning **Python**    
+- 📫 How to reach me: **kaloyan.rusev.2007@abv.bg**  
+- ⚡ Fun fact: **Passionate saxophone 🎷 player**
 
 ---
 
